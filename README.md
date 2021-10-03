@@ -1,6 +1,6 @@
 ### Olá, bem vindo e obrigado por visitar meu Github.
 
-- 🔭 Trabalho atualmente na Ahgora Systemas
+- 🔭 Software Enginner na Ahgora Systemas
 - 🌱 Estudando contantemente: JS, TS, Testes, NodeJS, VueJS, MongoDB
 - 👯 Projetos pessoais? Sim 04 mas ainda é privado.
 - 📫 Contato: wellpinho@outlook.com
