@@ -1,9 +1,9 @@
 ### Olá, bem vindo e obrigado por visitar meu Github.
 
 - 🔭 Software Enginner na Ahgora Systemas
-- 🌱 Estudando constantemente: JS, TS, Testes, NodeJS, VueJS, MongoDB, React, Docker, SCRUM.
+- 🌱 Estudando constantemente: Javascript, Typescript, Testes com Jest e Mocha, NodeJS, VueJS, ReactJS, MongoDB, Postgres, Docker, SCRUM.
 - 👯 Projetos pessoais? Sim 04 mas ainda é privado.
-- 📫 Contato: wellpinho@outlook.com
+- 📫 Contato: wellpinho@outlook.com - (48) 9883 - 34573
 
 <div align="center">
   <a href="https://github.com/wellpinho">
