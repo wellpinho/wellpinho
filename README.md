@@ -1,7 +1,7 @@
 ### Olá, bem vindo e obrigado por visitar meu Github.
 
 - 🔭 Software Engineer na Ahgora Systemas
-- 🌱 Habilidades: Javascript ES20, Typescript, Testes com Jest e Mocha, NodeJS, VueJS, ReactJS, NextJS, MongoDB, Mongoose, Prismaio, Postgres, TypeORM, Knex, Sequelizer, Docker e Docker-compose, Redis, SCRUM, AWS, EC2.
+- 🌱 Habilidades: Javascript ES20, Typescript, Testes com Jest e Mocha, NodeJS, VueJS, ReactJS, NextJS, MongoDB, Mongoose, Prisma, Postgres, TypeORM, Knex, Sequelizer, Docker e Docker-compose, Redis, SCRUM, AWS, EC2.
 - 👯 Projetos pessoais? Sim 04 mas ainda é privado.
 - 📫 Contato: wellpinho@outlook.com - (48) 9883 - 34573
 
