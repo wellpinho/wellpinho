@@ -15,64 +15,53 @@ Atualmente atuo como **Backend Sênior na [Infosistemas](https://www.infosistema
 
 ### 🚀 Tecnologias & Ferramentas Principais
 
-<div style="display: flex; flex-direction: column; gap: 14px;">
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <strong>NestJS</strong> – Framework que uso para construir APIs robustas, modulares e orientadas a microsserviços.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <strong>TypeScript</strong> – Base principal dos meus serviços backend, garantindo tipagem forte e código escalável.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://typeorm.io/img/typeorm-icon-white.png" />
-    <strong>TypeORM</strong> – ORM que utilizo para modelagem relacional avançada, migrations, relações complexas e integrações com NestJS.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
-    <strong>RabbitMQ</strong> – Mensageria para filas confiáveis, padrões pub/sub e integração entre microsserviços.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-    <strong>Prisma</strong> – ORM que utilizo para modelagem eficiente, migrations seguras e acesso a dados com alta performance.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-    <strong>Jest</strong> – Testes automatizados unitários, mutação e de integração garantindo estabilidade e segurança das entregas.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <strong>Node.js</strong> – Runtime para serviços de alta performance, filas, workers e integrações diversas.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <strong>PostgreSQL</strong> – Meu principal banco relacional, modelando sistemas complexos com TypeORM/Prisma.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <strong>MongoDB</strong> – Utilizo em cenários que exigem flexibilidade de schema e leitura rápida.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-    <strong>Redis</strong> – Cache, filas leves, rate-limits e locking distribuído para alta performance.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <strong>Docker</strong> – Empacotamento dos serviços, ambientes replicáveis e pipelines CI/CD.
-  </div>
-<br/>
-  <div style="display: flex; align-items: center; gap: 10px; margin-top: 2px;">
-    <img height="28" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-    <strong>AWS</strong> – Deploy, filas, monitoramento, lambdas e infraestrutura escalável.
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></td>
+    <td><strong>NestJS</strong> – Framework que uso para construir APIs robustas, modulares e orientadas a microsserviços.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
+    <td><strong>TypeScript</strong> – Base principal dos meus serviços backend, garantindo tipagem forte e código escalável.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://typeorm.io/img/typeorm-icon-white.png" /></td>
+    <td><strong>TypeORM</strong> – ORM para modelagem relacional avançada, migrations, relações complexas e integrações com NestJS.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" /></td>
+    <td><strong>RabbitMQ</strong> – Mensageria para filas confiáveis, padrões pub/sub e integração entre microsserviços.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></td>
+    <td><strong>Prisma</strong> – ORM utilizado para modelagem eficiente, migrations seguras e acesso a dados com alta performance.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></td>
+    <td><strong>Jest</strong> – Testes automatizados unitários e de integração garantindo estabilidade e segurança das entregas.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
+    <td><strong>Node.js</strong> – Runtime para serviços de alta performance, filas, workers e integrações diversas.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></td>
+    <td><strong>PostgreSQL</strong> – Meu principal banco relacional, modelando sistemas complexos com TypeORM/Prisma.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></td>
+    <td><strong>MongoDB</strong> – Utilizo em cenários que exigem flexibilidade de schema e leitura rápida.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></td>
+    <td><strong>Redis</strong> – Cache, filas leves, rate-limits e locking distribuído para alta performance.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
+    <td><strong>Docker</strong> – Empacotamento dos serviços, ambientes replicáveis e pipelines CI/CD.</td>
+  </tr>
+  <tr>
+    <td><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></td>
+    <td><strong>AWS</strong> – Deploy, filas, monitoramento, lambdas e infraestrutura escalável.</td>
+  </tr>
+</table>
