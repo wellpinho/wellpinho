@@ -1,34 +1,79 @@
-### Olá, bem vindo e obrigado por visitar meu Github.
+### 👋 Olá! Bem-vindo ao meu GitHub
 
-- 🔭 Desenvolvedor Backend Sênior [Infosistemas](https://www.infosistemas.com.br/)
-- 🌱 Habilidades que uso no meu dia a dia: NestJS, RabbitMQ, Typescript, Jest, SQL, NoSQL, AWS, Redis.
-- 👯 Projetos pessoais? Sim 04 mas ainda é privado.
-- 📫 Contato: wellpinho@outlook.com
+Sou **Desenvolvedor Backend Sênior**, especializado em criar APIs escaláveis, serviços distribuídos e integrações robustas. Trabalho diariamente com **NestJS**, **TypeScript**, **RabbitMQ**, **SQL/NoSQL**, **TypeORM**, **Prisma**, **Redis** e **AWS**.
 
-<div align="center">
-  <a href="https://github.com/wellpinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellpinho&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellpinho&layout=compact&langs_count=7&theme=merko"/>
-</div>
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="wellpinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="wellpinho-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="wellpinho-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" alt="wellpinho-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="left" alt="wellpinho-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="wellpinho-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="wellpinho-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="wellpinho-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
-  <img align="left" alt="wellpinho-docker" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/wellpinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
+Atualmente atuo como **Backend Sênior na [Infosistemas](https://www.infosistemas.com.br/)** e mantenho alguns projetos pessoais (privados por enquanto 😉).
+
+---
+
+### 📬 Contato
+
+<a href="mailto:wellpinho@outlook.com"><img src="https://img.shields.io/badge/Email-%2312100E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/wellpinho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+---
+
+### 🚀 Tecnologias & Ferramentas Principais
+
+<div style="display: flex; flex-direction: column; gap: 14px;">
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  **NestJS** – Framework que uso para construir APIs robustas, modulares e orientadas a microsserviços.
 </div>
 
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  **TypeScript** – Base principal dos meus serviços backend, garantindo tipagem forte e código escalável.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://typeorm.io/img/typeorm-icon-white.png" />
+  **TypeORM** – ORM que utilizo para modelagem relacional avançada, migrations, relações complexas e integrações com NestJS.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
+  **RabbitMQ** – Mensageria para filas confiáveis, padrões pub/sub e integração entre microsserviços.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  **Prisma** – ORM que utilizo para modelagem eficiente, migrations seguras e acesso a dados com alta performance.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+  **Jest** – Testes automatizados unitários, mutação e de integração garantindo estabilidade e segurança das entregas.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  **Node.js** – Runtime para serviços de alta performance, filas, workers e integrações diversas.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  **PostgreSQL** – Meu principal banco relacional, modelando sistemas complexos com TypeORM/Prisma.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  **MongoDB** – Utilizo em cenários que exigem flexibilidade de schema e leitura rápida.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  **Redis** – Cache, filas leves, rate-limits e locking distribuído para alta performance.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  **Docker** – Empacotamento dos serviços, ambientes replicáveis e pipelines CI/CD.
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  **AWS** – Deploy, filas, monitoramento, lambdas e infraestrutura escalável.
+</div>
+</div>
